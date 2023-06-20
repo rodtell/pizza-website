@@ -1,2 +1,14 @@
-Site feito apenas como exposição para uma pizzaria. Toda imagem e vídeo são de domínio público.
-Site made as a showcase for a pizza place. Every image and video are public domain.
+## pt-br
+### Sobre
+Site feito como amostra para uma pizzaria. 
+### Imagens
+Todas as imagens são de domínio público.
+### Videos
+Todos os videos são de domínio público.
+## eng-us
+### About
+Site made as a showcase for a pizza place. 
+### Images
+All images are public domain.
+### Videos
+All videos are public domain.
